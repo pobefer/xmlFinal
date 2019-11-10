@@ -1,0 +1,39 @@
+/*001*/
+body {
+      font: 400 15px Tahoma, sans-serif;
+      line-height: 1.8;
+      color: darkred;
+  }
+
+
+/*001*/
+h1{
+    background-color:rgb(30, 123, 32); 
+    font-stretch: expanded;
+    color: 	#000000;
+    text-transform: uppercase;
+    text-align: center;    
+    font-size: 3em;
+  }
+/*001*/
+h2{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 2em;
+}
+/*001*/
+.ruta p , .ruta a{
+    text-indent: 50px;
+}
+
+.hito p , .hito a{
+     text-indent: 100px;
+}
+
+.ruta{
+    background-color:rgb(100, 255, 200); 
+}
+
+.hito{
+     background-color:rgb(100, 255, 255); 
+}
